@@ -1,4 +1,4 @@
 # Aryan-demo
 This is my first Git Repository.
 <br>
-Author - Aryan Varia
+Author - Aryan (ITM)
